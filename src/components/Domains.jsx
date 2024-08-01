@@ -20,7 +20,7 @@ const Domains = () => {
                             src={check}
                             width={24}
                             height={24} />
-                            <h6 className="body-2 ml-5">{item.title}</h6>
+                            <h4 className="h4 ml-5">{item.title}</h4>
                         </div>
                     </li>
                 ))}
